@@ -2,7 +2,7 @@
 
 A full-stack real-time chat platform built with React, Node.js, Express, MongoDB, and Socket.io.
 
-![NexChat Preview](https://raw.githubusercontent.com/amansingh1426/NexChat/main/frontend/public/nexchat-login-preview.png?v=20260408)
+![NexChat Preview](https://raw.githubusercontent.com/amansingh1426/NexChat/main/frontend/public/nexchat-login-preview.png?v=20260408-2)
 
 ## Overview
 
